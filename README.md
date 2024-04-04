@@ -23,8 +23,8 @@ This is a simple React project I created to practice using props and components.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](![image](https://github.com/Muntajir11/React_Props_Component/assets/91109805/cc96c647-8df9-475c-9dfc-8476c558fa9e)
+)
 
 ## Credits
 
