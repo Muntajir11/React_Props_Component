@@ -23,12 +23,12 @@ This is a simple React project I created to practice using props and components.
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/Muntajir11/React_Props_Component/assets/91109805/cc96c647-8df9-475c-9dfc-8476c558fa9e)
-)
+![image](https://github.com/Muntajir11/React_Props_Component/assets/91109805/da4a187d-4822-405e-880e-d524a87e4706)
+
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by Muntajir.
 
 ## License
 
